@@ -2,11 +2,11 @@
 
 ## git merge
 
-![](/assets/import.png)
+![](/assets/gitmerge.png)
 
 ## git rebase
 
-![](/assets/rebase.png)
+![](/assets/gitrebase.png)
 
 * merge 会将两个分支的修改合并在一起。
 * merge 的提交历史记录了实际操作的过程。
