@@ -2,7 +2,7 @@
 
 ## git merge
 
-![](/assets/gitmerge.png)
+![](/assets/gitmergenew.png)
 
 ## git rebase
 
