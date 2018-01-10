@@ -2,7 +2,7 @@
 
 ## git merge
 
-![](/assets/gitmergenew.png)
+![](https://ws3.sinaimg.cn/large/006tNc79gy1fnbn1190zjj31gc0y8acj.jpg)
 
 ## git rebase
 
