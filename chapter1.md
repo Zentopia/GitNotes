@@ -6,7 +6,7 @@
 
 ## git rebase
 
-![](/assets/gitrebase.png)
+![](https://ws4.sinaimg.cn/large/006tNc79gy1fnbn8olj8tj315y0u8mzs.jpg)
 
 * merge 会将两个分支的修改合并在一起。
 * merge 的提交历史记录了实际操作的过程。
