@@ -1,4 +1,4 @@
-# \# git merge 和 git rebase 的区别
+# git merge 和 git rebase 的区别
 
 ## git merge
 
